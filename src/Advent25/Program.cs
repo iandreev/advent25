@@ -28,4 +28,7 @@
 //new Day9().Solve2();
 
 //new Day10().Solve1();
-new Day10().Solve2();
+//new Day10().Solve2();
+
+new Day11().Solve1();
+new Day11().Solve2();
